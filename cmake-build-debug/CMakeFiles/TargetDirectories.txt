@@ -1,0 +1,3 @@
+C:/Users/DK/CLionProjects/OUGIT/cmake-build-debug/CMakeFiles/OUGIT.dir
+C:/Users/DK/CLionProjects/OUGIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DK/CLionProjects/OUGIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
